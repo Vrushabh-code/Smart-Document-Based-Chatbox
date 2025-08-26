@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # FinanceBot - AI-Powered Financial Document Analysis
 
 ## 🚀 Project Overview
